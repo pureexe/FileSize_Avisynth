@@ -10,8 +10,8 @@ Return:
 file size in byte or -1 if file isn't exist.
 ```
 
-Please note that return type is float to avoid integer overflow. 
-but if you want return type in integer you can use Int() to convert Float to Int
+Please note that return type is Float to avoid integer overflow. 
+but if you want return type in integer you can use `Int()` to convert Float back to Int
 
 Download:
 [Prebuilt DLL and source](https://github.com/pureexe/FileSize_Avisynth/releases)
